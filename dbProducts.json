@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "id": 2,
+            "titulo": "Auriculares",
+            "descripcion": "JBL Bluetooth",
+            "precio": 4200,
+            "thumbnail": "imagen1.jpg",
+            "stock": 100,
+            "codigo": "ABA121"
+        },
+        {
+            "id": 3,
+            "titulo": "Tonica",
+            "descripcion": "Paso de los toros",
+            "precio": 200,
+            "thumbnail": "imagen1.jpg",
+            "stock": 100,
+            "codigo": "RAF352"
+        },
+        {
+            "id": 4,
+            "titulo": "Sertrina",
+            "descripcion": "Sertralina 50mg",
+            "precio": 220,
+            "thumbnail": "imagen1.jpg",
+            "stock": 500,
+            "codigo": "KJL542"
+        },
+        {
+            "id": 5,
+            "titulo": "Pregax",
+            "descripcion": "Pregabalina 75mg",
+            "precio": 520,
+            "thumbnail": "imagen1.jpg",
+            "stock": 500,
+            "codigo": "WEQ343"
+        },
+        {
+            "id": 7,
+            "titulo": "Gorro",
+            "descripcion": "Vicera plana NY Yankees",
+            "precio": 520,
+            "thumbnail": "imagen4.jpg",
+            "stock": 4030,
+            "codigo": "IQSA43"
+        }
+    ]
+}
